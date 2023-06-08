@@ -8,7 +8,7 @@ html {
     align-items: center;
     width: 200px;
     height: 200px;
-    border: 40px solid #F97316;
+    border: 40px solid;
 }
 
 .header {
